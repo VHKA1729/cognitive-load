@@ -10,3 +10,4 @@
 .DS_Store
 dask-worker-space/global.lock
 *.lock
+.DS_Store
