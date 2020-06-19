@@ -11,3 +11,5 @@
 dask-worker-space/global.lock
 *.lock
 .DS_Store
+.ipynb_checkpoints/Ubi-checkpoint.ipynb
+.ipynb_checkpoints/Ubi-vhka-checkpoint.ipynb
